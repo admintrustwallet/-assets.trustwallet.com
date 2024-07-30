@@ -1,1 +1,3 @@
-# -assets.trustwallet.com
+# -assets.trustwallet.com  
+
+## subdomain takeover by hacker
